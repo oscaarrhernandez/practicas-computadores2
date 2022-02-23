@@ -1,9 +1,10 @@
 .area PROG(ABS)
-.org 0x100
 
 fin      .equ 0xFF01
 pantalla .equ 0xFF00
 teclado  .equ 0xFF02
+
+.org 0x100
 
 .globl programa
 
