@@ -13,5 +13,6 @@ Practicas realizadas en Computadores 2 USAL. Usamos el ensamblador de MC6809.
 - **Sesion 4** ejercicio 8: Repetir el ejemplo anterior pero para números de tres cifras (del 000 al 999) y usando el registro D
 - **Sesion 5** ejercicio 2: Cuadrados perfectos
 - **Sesion 5** ejercicio 4: Cuadrado perfecto optimizado
+- **Sesion 5** ejercicio 5: Basándose en el ejercicio anterior, realizar otra versión considerando la siguiente propiedad de los cuadrados perfectos: "Los cuadrados perfectos son el resultado de sumar los primeros números impares"
 - **Sesion 6** ejercicio 2: Con ayuda de una pila, admítanse caracteres del teclado hasta que el usuario pulse la tecla Intro ('\n). En ese momento, se imprimirán por la pantalla los caracteres tecleados en orden inverso.
 - **Sesion 7** ejercicio 2: Realizad un programa que admita una línea de texto del teclado. Debe sacar por la pantalla los caracteres que aparecen en la línea ordenados de código ASCII menor a mayor. Si algún carácter aparece repetido en la entrada, debe aparecer solamente una vez en la salida. Por ejemplo, si la entrada es: El perro de San Roque no tiene rabo, la salida debe ser ERSabdeilnopqrtu
